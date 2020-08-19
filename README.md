@@ -1,4 +1,5 @@
-# Business_Intelligence_Tools: Python, SQL, Power BI, Pandas, SQLAlchemy, Matplotlib, Selenium
+# Business_Intelligence_Tools: 
+## Python, SQL, Power BI, Pandas, SQLAlchemy, Matplotlib, Selenium
 
 #### A complete BI Project has been developed based on the analysis of the stocks that forms the index FTSE MIB 40.
 
